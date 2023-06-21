@@ -6,4 +6,7 @@ This Repo includes my notes and exercises on Rust the resources used are mention
 * [Rustlings](https://rustlings.cool/)
 * [Comprehensive Rust](https://github.com/google/comprehensive-rust) By Google
 
+# Notes
 
+Regularly usable functions:
+* iter() - To iter 
