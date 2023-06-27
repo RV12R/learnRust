@@ -8,7 +8,7 @@ This Repo includes my notes and exercises on Rust the resources used are mention
 
 # Notes
 
-Regularly usable functions:
+Special functions needed in competitive programming:
 * **iter()** - iter function is a method available for collections (such as vectors, arrays, and iterators) that returns an iterator over the elements of the collection. It provides an immutable view of the collection's elements for iteration purposes.
 
 * **fold()** - fold function is a method available for iterators that performs a folding operation on the elements of the iterator. To use the fold() function, you start with an initial value, which is like a starting point. Then, you go through each number in the list, one by one. For each number, you perform an operation and update the initial value.
